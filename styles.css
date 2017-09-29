@@ -1,0 +1,23 @@
+h1 {color: darkseagreen; font-size: 250%; font-weight: bold; text-align: center}
+h2 {font-size: 150%;
+	font-style: italic;
+	color: darkseagreen;
+	text-align: center }
+h3 {text-align: center}
+
+body { 
+	background: mintcream;
+	color: darkslateblue;
+	font-size: 18pt;
+	font-family: 'Playfair Display', serif; }
+
+nav li{ border: 2px solid black;
+		display: inline-block; 
+		padding: 10px;
+		margin: 5px;
+		background: white;	}
+		
+nav li:hover { background: lightpink;}
+a { color: darkred; text-decoration: none}
+a:hover { color: red;}
+
